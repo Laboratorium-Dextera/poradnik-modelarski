@@ -4,6 +4,9 @@ status: new
 ---
 # Witaj na stronie poradnika modelarskiego !!!! :)
 
+Nie wiem czy to wyjdzie.
+
+
 Jest to miejsce gdzie znajdziesz kompletny poradnik dla osób, które chcą się nauczyć kleić modele kartonowe. 
 Wiele lat zbierałem się do zrobienia tego miejsca ale mam nadzieję, że było warto czekać. Wyszedłem z założenia, że należy dobrze przygotować materiał, a w szczególności samemu kleić.
 
