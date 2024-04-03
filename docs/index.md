@@ -1,5 +1,5 @@
 ---
-title: Wstęp do poradnika
+title: Wstęp do poradnika modelarskiego
 status: new
 ---
 # Witaj na stronie poradnika modelarskiego
