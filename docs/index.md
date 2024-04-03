@@ -4,7 +4,7 @@ status: new
 ---
 # Witaj na stronie poradnika modelarskiego !!!! :)
 
-Nie wiem czy to wyjdzie.
+Nie wiem czy to wyjdzie. ALe jestem dobrej myśli
 
 
 Jest to miejsce gdzie znajdziesz kompletny poradnik dla osób, które chcą się nauczyć kleić modele kartonowe. 
