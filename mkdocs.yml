@@ -29,6 +29,7 @@ extra:
   social:
     - icon: fontawesome/solid/paper-plane
       link: mailto:kontakt@papermodels.eu
+  disqus: modelarstwookiemdextera
 plugins:
   - privacy
   - git-revision-date-localized:
