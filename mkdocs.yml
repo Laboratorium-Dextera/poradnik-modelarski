@@ -1,6 +1,5 @@
 site_name: Poradnik Modelarski
 repo_url: https://github.com/Laboratorium-Dextera/poradnik-modelarski/
-repo_name: poradnik-modelarski
 edit_uri: edit/main/docs/
 theme:
   logo: ./assets/logo.png
