@@ -29,6 +29,11 @@ extra:
       link: mailto:kontakt@papermodels.eu
 plugins:
   - privacy
+  - git-revision-date-localized:
+      enable_creation_date: true
+  - git-revision-date-localized:
+      type: date
+      enable_creation_date: true
 copyright: >
   Copyright &copy; 2024 - 2024 DexterLab
 markdown_extensions:
