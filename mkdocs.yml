@@ -6,6 +6,7 @@ theme:
   logo: ./assets/logo.png
   language: pl
   name: material
+  custom_dir: overrides
   palette:
     primary: grey
   features:
