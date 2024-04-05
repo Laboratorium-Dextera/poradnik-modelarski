@@ -25,7 +25,7 @@ extra:
       make our documentation better.    
   analytics:
     provider: google
-    property: G-XXXXXXXXXX
+    property: G-0E2MYRPDRV
   social:
     - icon: fontawesome/solid/paper-plane
       link: mailto:kontakt@papermodels.eu
